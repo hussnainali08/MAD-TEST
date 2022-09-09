@@ -1,0 +1,25 @@
+.btn{
+    margin-right: 10px;
+}
+.margin{
+    margin-left: 560px;
+}
+.mm{
+    margin-left: 5px;
+    border: 1px solid black;
+}
+.bb{
+    border: 1px solid black;
+}
+.color{
+    color: white;
+    background-color: rgb(232, 151, 0);   
+}
+.rr{
+    margin-left: 50px;
+}
+/* .card{
+    background-image: url(/images/image\ 4.png);
+    height: 300px;
+    width: 150px;
+} */
